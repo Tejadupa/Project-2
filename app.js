@@ -1,0 +1,1 @@
+console.log("Hi this app.js file is created using touch command in the terminal for demo purpose")
